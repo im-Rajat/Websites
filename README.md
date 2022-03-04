@@ -1,4 +1,4 @@
-# Some Usefull Websites
+# Some Useful Websites
 
 **Stock Market** :
 - https://intradayscreener.com/app
