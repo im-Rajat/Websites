@@ -1,13 +1,17 @@
-# Websites
+# Some Usefull Websites
 
-Stock Market :
+# Stock Market :
 - https://intradayscreener.com/app
 - https://intradayscreener.com/app/price-action-scanner-intraday    (For Intraday)
 
-Data Storage :
+<hr>
+
+# Data Storage :
 - https://www.terabox.com/ (50GB Storage)
 
-Movies :
+<hr>
+
+# Movies :
 - https://myflixer.pw/
 - https://myflixer.id/
 - https://1moviesfd.xyz/
@@ -15,7 +19,9 @@ Movies :
 - https://ytstvmovies.xyz/
 - http://netflix.com/watch-free
 
-Education :
+<hr>
+
+# Education :
 - https://overapi.com/    (Collecting All Cheat Sheets)
 - https://cheatography.com/    (Free Cheat Sheets, Revision Aids and Quick References)
 - https://www.noisli.com/    (Create your perfect sound environment to work and relax)
@@ -38,7 +44,9 @@ Education :
 - https://www.mturk.com/
 - https://worker.mturk.com/
 
-Software :
+<hr>
+
+# Software :
 - https://www.photopea.com/    (Online Photoshop)
 - https://chrome.google.com/webstore/detail/instagram-automation/konjhikjiofckcnjljhpdgdphjlmciap (Instagram auto follow extension)
 - https://filecr.com/
@@ -56,19 +64,25 @@ Software :
 - https://wetransfer.com/    (Send Large Files Online)
 - https://www.accountkiller.com/ (Instruction to delete an account on a site)
 
+<hr>
 
-Interactive :
+# Interactive :
 - https://uberduck.ai/    (Convert text to celebrity voice)
 - https://boredhumans.com/
 
+<hr>
 
-Games :
+# Games :
 - https://oldgamesdownload.com/
 
-Mail :
+<hr>
+
+# Mail :
 - https://mail.yandex.com/
 
-Social Media :
+<hr>
+
+# Social Media :
 - https://socialbrandhub.com/
 - https://followersindia.com/
 - https://socialdaddy.net/
@@ -77,3 +91,7 @@ Social Media :
 - https://soc-promotion.com/free-instagram-promotion
 - Likezoid (Windows App)
 - Socialfollow (Windows App)
+
+
+
+![image](https://user-images.githubusercontent.com/20627338/156710203-b761c070-1470-4cd9-9505-b921254dc616.png)
