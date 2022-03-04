@@ -91,7 +91,3 @@
 - https://soc-promotion.com/free-instagram-promotion
 - Likezoid (Windows App)
 - Socialfollow (Windows App)
-
-
-
-![image](https://user-images.githubusercontent.com/20627338/156710203-b761c070-1470-4cd9-9505-b921254dc616.png)
