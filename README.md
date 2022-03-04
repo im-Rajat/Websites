@@ -1,17 +1,17 @@
 # Some Usefull Websites
 
-# Stock Market :
+**Stock Market** :
 - https://intradayscreener.com/app
 - https://intradayscreener.com/app/price-action-scanner-intraday    (For Intraday)
 
 <hr>
 
-# Data Storage :
+Data Storage :
 - https://www.terabox.com/ (50GB Storage)
 
 <hr>
 
-# Movies :
+Movies :
 - https://myflixer.pw/
 - https://myflixer.id/
 - https://1moviesfd.xyz/
@@ -21,7 +21,7 @@
 
 <hr>
 
-# Education :
+Education :
 - https://overapi.com/    (Collecting All Cheat Sheets)
 - https://cheatography.com/    (Free Cheat Sheets, Revision Aids and Quick References)
 - https://www.noisli.com/    (Create your perfect sound environment to work and relax)
@@ -46,7 +46,7 @@
 
 <hr>
 
-# Software :
+Software :
 - https://www.photopea.com/    (Online Photoshop)
 - https://chrome.google.com/webstore/detail/instagram-automation/konjhikjiofckcnjljhpdgdphjlmciap (Instagram auto follow extension)
 - https://filecr.com/
@@ -66,23 +66,23 @@
 
 <hr>
 
-# Interactive :
+Interactive :
 - https://uberduck.ai/    (Convert text to celebrity voice)
 - https://boredhumans.com/
 
 <hr>
 
-# Games :
+Games :
 - https://oldgamesdownload.com/
 
 <hr>
 
-# Mail :
+Mail :
 - https://mail.yandex.com/
 
 <hr>
 
-# Social Media :
+Social Media :
 - https://socialbrandhub.com/
 - https://followersindia.com/
 - https://socialdaddy.net/
