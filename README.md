@@ -71,11 +71,9 @@ Mail :
 Social Media :
 - https://socialbrandhub.com/
 - https://followersindia.com/
-- https://socialbrandhub.com/
-- https://socialdaddy.in/
 - https://socialdaddy.net/
-- https://videosgrow.com/free-youtube-views/
-- https://freezlike.com/free-youtube-views
+- https://www.like4like.org/
+- https://addmefast.com/login
 - https://soc-promotion.com/free-instagram-promotion
 - Likezoid (Windows App)
 - Socialfollow (Windows App)
