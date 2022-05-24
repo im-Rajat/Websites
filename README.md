@@ -58,30 +58,37 @@
 
 **Software** :
 - https://www.blckbx.ai/    (Copy the code from any coding video or live video calls)
-- https://www.photopea.com/    (Online Photoshop)
 - https://filecr.com/    (Download software/apps)
-- https://bgrem.deelvin.com/    (Remove background from videos)
-- https://www.unscreen.com/    (Remove Video Background)
 - https://freesoff.com/
 - https://lumpysoft.com/    (Google index search - Paid stuff for free)
 - https://poet.so/    (Create image from twitter/LinkedIn link/posts)
-- https://cleanup.pictures/    (Remove any unwanted object, defect, people or text from image)
 - https://www.hiddentools.dev/    (wide collection of unique tools)
 - https://smartserials.com/    (To find serials)
 - https://cloudconvert.com/    (Online File Converter)
 - https://www.sejda.com/ (PDF editor and more)
 - https://tinywow.com/    (Tools That Solve Your Files Problem)
-- https://www.remove.bg/    (Remove Image Background)
-- https://letsenhance.io/    (Increase Image Resolution)
 - https://www.sharedrop.io/    (Send Files on same Network)
 - https://wetransfer.com/    (Send Large Files Online)
 - https://www.accountkiller.com/ (Instruction to delete an account on a site)
 - https://saymine.com/   (Delete your digital data off any website)
+
+<hr>
+
+**Photo/Video/Audio Software's** :
+- https://www.watermarkremover.io/    (Remove Watermarks from Your Images)
+- https://www.photopea.com/    (Online Photoshop)
 - https://letsenhance.io/    (Enhance low quality images)
+- https://cleanup.pictures/    (Remove any unwanted object, defect, people or text from image)
+- https://bgrem.deelvin.com/    (Remove background from videos)
+- https://www.unscreen.com/    (Remove Video Background)
+- https://www.veed.io/    (Video editing)
+- https://www.remove.bg/    (Remove Image Background)
+- https://letsenhance.io/    (Increase Image Resolution)
 
 <hr>
 
 **Interactive** :
+- https://tosdr.org/    (Reading Terms & condition easily and short)
 - https://uberduck.ai/    (Convert text to celebrity voice)
 - https://boredhumans.com/
 - https://sketch.metademolab.com/    (Animate anything)
