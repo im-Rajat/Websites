@@ -1,24 +1,29 @@
 # Some Useful Websites
 
 
-**Stock Market** :
-- https://intradayscreener.com/app
+**Financial** :
+- https://www.chrislross.com/PPPConverter/    (Purchasing Power Parity Calculator to compare Money/Salary of 2 Countries)
+- https://intradayscreener.com/app    (Stock Market)
 - https://intradayscreener.com/app/price-action-scanner-intraday    (For Intraday)
 
 <hr>
 
-**Data Storage** :
-- https://www.terabox.com/ (50GB Storage)
+**Data Storage/Transfer** :
+- https://www.terabox.com/    (50GB Storage)
+- https://toffeeshare.com/    (Share files privately & secure, without size limit, like torrent)
+- https://www.sharedrop.io/    (Send Files on same Network)
+- https://wetransfer.com/    (Send Large Files Online)
 
 <hr>
 
 **Movies** :
 - https://myflixer.pw/
-- https://myflixer.id/
-- https://1moviesfd.xyz/
+- https://www.bolly2tolly.info/    (For Indian Movies/WebSeries)
+- https://goku.to/
+- https://www.osee.in/
 - https://www.my90stv.com/
-- https://ytstvmovies.xyz/
 - http://netflix.com/watch-free
+
 - search on google - soap2day
 - search on google - movie_name site:drive.google.com
 
@@ -26,12 +31,14 @@
 
 **Education** :
 - https://overapi.com/    (Collecting All Cheat Sheets)
+- https://www.useblackbox.io/search    (Turn any Question into {Code})
 - https://cheatography.com/    (Free Cheat Sheets, Revision Aids and Quick References)
 - https://www.noisli.com/    (Create your perfect sound environment to work and relax)
 - https://texttohandwriting.com/ (Convert text to handwriting)
 - https://hackingcpp.com/index.html    (Learning C++)
 - https://www.tutorialsduniya.com/    (Academic Study material)
 - https://github.com/jwasham/coding-interview-university    (coding interview university)
+- https://nevonprojects.com/ (Get different projects)
 - https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md (C++ Cheat Sheet)
 - https://learnxinyminutes.com/    (Get overview of Programming Languages)
 - https://mathsolver.microsoft.com/en    (For solving math problems with steps)
@@ -57,6 +64,8 @@
 <hr>
 
 **Software** :
+- https://github.com/cagefigter/awesome-piracy    (Get anything for free, software's, eBooks)
+- https://ask4pc.net/ (Get free software's without any redirect)
 - https://www.blckbx.ai/    (Copy the code from any coding video or live video calls)
 - https://filecr.com/    (Download software/apps)
 - https://freesoff.com/
@@ -67,19 +76,25 @@
 - https://cloudconvert.com/    (Online File Converter)
 - https://www.sejda.com/ (PDF editor and more)
 - https://tinywow.com/    (Tools That Solve Your Files Problem)
-- https://www.sharedrop.io/    (Send Files on same Network)
-- https://wetransfer.com/    (Send Large Files Online)
 - https://www.accountkiller.com/ (Instruction to delete an account on a site)
 - https://saymine.com/   (Delete your digital data off any website)
 
 <hr>
 
+**Sports**:
+- https://crichd.tv/    (Watch sports for free, use VPN)
+- https://my.webcric.com/    (webcric, Watch sports for free)
+
+<hr>
+
 **Photo/Video/Audio Software's** :
 - https://www.watermarkremover.io/    (Remove Watermarks from Your Images)
+- https://cleanup.pictures/    (Remove any Objects from Images)
 - https://www.photopea.com/    (Online Photoshop)
 - https://letsenhance.io/    (Enhance low quality images)
 - https://cleanup.pictures/    (Remove any unwanted object, defect, people or text from image)
 - https://bgrem.deelvin.com/    (Remove background from videos)
+- https://bgrem.deelvin.com/    (Remove background, For portrait photo & video)
 - https://www.unscreen.com/    (Remove Video Background)
 - https://www.veed.io/    (Video editing)
 - https://www.remove.bg/    (Remove Image Background)
@@ -87,8 +102,15 @@
 
 <hr>
 
+**Important** :
+- https://tafcop.dgtelecom.gov.in/    (Check how many Sim Cards are issued on your Aadhaar card)
+
+<hr>
+
 **Interactive** :
+- https://grabify.link/    (To track someone using link)
 - https://tosdr.org/    (Reading Terms & condition easily and short)
+- https://freetts.com/    (Text to Audio)
 - https://uberduck.ai/    (Convert text to celebrity voice)
 - https://boredhumans.com/
 - https://sketch.metademolab.com/    (Animate anything)
@@ -98,6 +120,7 @@
 **Games** :
 - https://oldgamesdownload.com/
 - https://www.playtestcloud.com/
+- https://dodi-repacks.site/    (Search dodi repack on google)
 - https://poki.com/    (Online Gaming)
 
 <hr>
@@ -122,4 +145,5 @@
 <hr>
 
 **Tricks** :
+- Watch Youtube addfree : Just add - in between yout-ube in url
 - Runner.prototype.gameOver=function(){}
