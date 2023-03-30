@@ -233,4 +233,3 @@
 - chrome://settings/content/all    (Delete cache of a particular website)
 - Embed someones twitter video without retweeting them : copy tweet link, remove all text starting from '?' and add “/video/1”
 - has:attachment larger:10m    (Gmail)
-![image](https://user-images.githubusercontent.com/20627338/228771324-e7e0690f-52b4-492b-b919-f497e89a8408.png)
