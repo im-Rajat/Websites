@@ -65,6 +65,7 @@
 - https://www.text2sql.ai/    (Text2SQL.AI - Generate SQL queries with AI)
 - https://www.pdfdrive.com/    (PDF Drive - Search and download PDF files)
 - https://www.codeconvert.ai/free-converter    (CodeConverter - Convert code between languages)
+- https://flowcv.com/    (FlowCV - Online Resume/CV Builder)
 
 <hr>
 
@@ -119,6 +120,7 @@
 - https://app.simplified.com/    (Different tools for design, photo, video)
 - https://www.narakeet.com/    (Different tools for audio, video)
 - https://runwayml.com/    (Runway - AI Tools + Video Editing)
+- https://pictory.ai/    (Pictory – Text to Video)
 
 <hr>
 
@@ -138,6 +140,7 @@
 
 **Interactive** :
 - https://chat.openai.com/chat    (ChatGPT - AI Chat Bot)
+- https://lachief.io/    (Lachief - All AI Tools)
 - https://nat.dev/    (OpenPlayground - Use Different AI's)
 - https://www.noisli.com/    (Create your Perfect Sound Environment to Work and Relax)
 - https://labs.openai.com/    (OpenAI Labs - Convert Text to Image using AI)
@@ -155,6 +158,7 @@
 - https://vocalremover.org/    (Separate Voice from Music)
 - https://www.movio.la/    (movio.la - Create AI Videos by giving script)
 - https://podcast.adobe.com/enhance    (Adobe AI Voice enhancer)
+- https://www.resemble.ai/    (Resemble AI : Text to your Voice)
 
 <hr>
 
@@ -226,6 +230,7 @@
 <hr>
 
 **Tricks** :
+- Block all ads in mobile using Private DNS : dns.adguard.com 
 - Watch Youtube addfree : Just add - in between yout-ube in url
 - Remove ube from youtube in url to download any video.
 - open VS Code directly from any GitHub repository, Simply change ".com" to ".dev" or press "."
