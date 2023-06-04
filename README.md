@@ -58,6 +58,7 @@
 - https://www.pdfdrive.com/    (PDF Drive - Search and download PDF files)
 - https://www.codeconvert.ai/free-converter    (CodeConverter - Convert code between languages)
 - https://flowcv.com/    (FlowCV - Online Resume/CV Builder)
+- https://quickref.me/    (QuickRef - Quick Reference Cheat Sheet)
 
 <hr>
 
@@ -88,6 +89,7 @@
 - https://crichd.tv/    (Watch sports for free, use VPN)
 - https://github.com/iptv-org/iptv    (Get link of tv channels, then paste it on any m3u player)
 - http://onlineiptvplayer.com/    (Online m3u player)
+- https://github.com/yuliskov/SmartTubeNext#Installation    (SmartTubeNext - Adfree YouTube for Android TV)
 
 <hr>
 
@@ -131,8 +133,9 @@
 
 **Interactive** :
 - https://chat.openai.com/chat    (ChatGPT - AI Chat Bot)
+- https://chat.forefront.ai/    (Forefront Chat - AI Chat Bot)
 - https://lachief.io/    (Lachief - All AI Tools)
-- https://nat.dev/    (OpenPlayground - Use Different AI's)
+- https://www.perplexity.ai/    (Perplexity AI : Ask Anything)
 - https://www.noisli.com/    (Create your Perfect Sound Environment to Work and Relax)
 - https://labs.openai.com/    (OpenAI Labs - Convert Text to Image using AI)
 - https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961    (BuildAI.Space - Trip Planner)
@@ -147,9 +150,10 @@
 - https://sketch.metademolab.com/    (Animate Drawings)
 - https://fakeupdate.net/    (Fake Windows Update)
 - https://vocalremover.org/    (Separate Voice from Music)
-- https://www.movio.la/    (movio.la - Create AI Videos by giving script)
 - https://podcast.adobe.com/enhance    (Adobe AI Voice enhancer)
 - https://www.resemble.ai/    (Resemble AI : Text to your Voice)
+- https://www.insidr.ai/ai-tools/    (Insidr.ai - AI Tools Directory)
+- https://chatdoc.com/    (ChatDOC - Chat with Documents)
 
 <hr>
 
@@ -217,6 +221,7 @@
 - https://addmefast.com/login    (AddMeFast : Get Likes and Followers)
 - https://soc-promotion.com/free-instagram-promotion    (Soc-Promotion : Free Likes)
 - https://likezoid.com/    (Likezoid - Windows App for free Likes)
+- https://app.instafollowerspro.com/    (Insta Followers Pro)
 
 <hr>
 
