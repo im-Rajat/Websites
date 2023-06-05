@@ -131,14 +131,14 @@
 
 <hr>
 
-**Interactive** :
-- https://chat.openai.com/chat    (ChatGPT - AI Chat Bot)
-- https://chat.forefront.ai/    (Forefront Chat - AI Chat Bot)
-- https://lachief.io/    (Lachief - All AI Tools)
+**AI/Interactive** :
+- https://chat.openai.com/chat    (ChatGPT : AI Chat Bot)
+- https://chat.forefront.ai/    (Forefront Chat : AI Chat Bot)
+- https://lachief.io/    (Lachief : All AI Tools)
 - https://www.perplexity.ai/    (Perplexity AI : Ask Anything)
 - https://www.noisli.com/    (Create your Perfect Sound Environment to Work and Relax)
-- https://labs.openai.com/    (OpenAI Labs - Convert Text to Image using AI)
-- https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961    (BuildAI.Space - Trip Planner)
+- https://labs.openai.com/    (OpenAI Labs : Convert Text to Image using AI)
+- https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961    (BuildAI.Space : Trip Planner)
 - https://www.craiyon.com/    (Convert Text to Image using AI)
 - https://beta.openai.com/playground    (AI to Solution)
 - https://fakeyou.com/    (Text to Voice to any Character/Cartoon)
@@ -152,8 +152,9 @@
 - https://vocalremover.org/    (Separate Voice from Music)
 - https://podcast.adobe.com/enhance    (Adobe AI Voice enhancer)
 - https://www.resemble.ai/    (Resemble AI : Text to your Voice)
-- https://www.insidr.ai/ai-tools/    (Insidr.ai - AI Tools Directory)
-- https://chatdoc.com/    (ChatDOC - Chat with Documents)
+- https://www.insidr.ai/ai-tools/    (Insidr.ai : AI Tools Directory)
+- https://chatdoc.com/    (ChatDOC : Chat with Documents)
+- https://logicballs.com/    (LogicBalls : FREE AI Apps)
 
 <hr>
 
