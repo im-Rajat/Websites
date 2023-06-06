@@ -155,6 +155,7 @@
 - https://www.insidr.ai/ai-tools/    (Insidr.ai : AI Tools Directory)
 - https://chatdoc.com/    (ChatDOC : Chat with Documents)
 - https://logicballs.com/    (LogicBalls : FREE AI Apps)
+- https://kodezi.com/    (Kodezi : AI for Programmers)
 
 <hr>
 
