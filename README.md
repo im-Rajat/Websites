@@ -204,6 +204,7 @@
 
 **Mail** :
 - https://mail.yandex.com/    (Yandex Mail)
+- https://dropmail.me/en/    (Dropmail : Temporary Email Address)
 - https://temp-mail.org/en/    (Temporary Email Address)
 - Gmail : For multiple gmail add . In between or add + in end and write anything, it consider as same email
 	rajat@gmail.com = rajat+rj@gmail.com = raja.t@gmail.com = rajat+rk@gmail.com
