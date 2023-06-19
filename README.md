@@ -157,6 +157,7 @@
 - https://chatdoc.com/    (ChatDOC : Chat with Documents)
 - https://logicballs.com/    (LogicBalls : FREE AI Apps)
 - https://kodezi.com/    (Kodezi : AI for Programmers)
+- https://uizard.io/    (Uizard : Edit Screenshot using AI)
 
 <hr>
 
