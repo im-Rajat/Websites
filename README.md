@@ -115,6 +115,7 @@
 - https://www.narakeet.com/    (Different tools for audio, video)
 - https://runwayml.com/    (Runway - AI Tools + Video Editing)
 - https://pictory.ai/    (Pictory – Text to Video)
+- https://express.adobe.com/express-apps/animate-from-audio/    (Adobe Express : Animate from audio)
 
 <hr>
 
