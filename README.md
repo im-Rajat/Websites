@@ -8,7 +8,6 @@
 - https://pricehistoryapp.com/    (Track Price History)
   
 </details>
-<hr>
 
 <details><summary><h2>Data Storage/Transfer : </h2></summary>
 	
@@ -18,7 +17,6 @@
 - https://wetransfer.com/    (Send Large Files Online)
 
 </details>
-<hr>
 
 <details><summary><h2>Movies : </h2></summary>
 	
@@ -36,7 +34,6 @@
 - search on google - movie_name site:drive.google.com
 
 </details>
-<hr>
 
 <details><summary><h2>Education : </h2></summary>
 	
@@ -69,7 +66,6 @@
 - https://quickref.me/    (QuickRef - Quick Reference Cheat Sheet)
 
 </details>
-<hr>
 
 <details><summary><h2>Softwares : </h2></summary>
 	
@@ -89,7 +85,6 @@
 - https://www.futurepedia.io/    (Futurepedia - AI Tools)
 
 </details>
-<hr>
 
 <details><summary><h2>Live TV (Sports) : </h2></summary>
 	
@@ -104,7 +99,6 @@
 - https://github.com/yuliskov/SmartTubeNext#Installation    (SmartTubeNext - Adfree YouTube for Android TV)
 
 </details>
-<hr>
 
 <details><summary><h2>Photo & Video Apps : </h2></summary>
 
@@ -131,7 +125,6 @@
 - https://express.adobe.com/express-apps/animate-from-audio/    (Adobe Express : Animate from audio)
 
 </details>
-<hr>
 
 <details><summary><h2>Important : </h2></summary>
 
@@ -147,7 +140,6 @@
 - https://facecheck.id    (FaceCheck - Find People Online by Photo)
 
 </details>
-<hr>
 
 <details><summary><h2>AI/Interactive : </h2></summary>
 
@@ -178,7 +170,6 @@
 - https://uizard.io/    (Uizard : Edit Screenshot using AI)
 
 </details>
-<hr>
 
 <details><summary><h2>Chrome Extensions : </h2></summary>
 
@@ -199,7 +190,6 @@
 - https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj?hl=en-GB    (Apply coupons automatically)
 
 </details>
-<hr>
 
 <details><summary><h2>Windows Applications : </h2></summary>
 
@@ -207,7 +197,6 @@
 - Windows Sandbox - Run any application in isolation (Turn on using windows features)    
 
 </details>
-<hr>
 
 <details><summary><h2>Android Applications : </h2></summary>
 
@@ -215,7 +204,6 @@
 - https://play.google.com/store/apps/details?id=com.bagestudio.doublesidecamera&hl=en_IN&gl=US    (Double Side Camera)
 
 </details>
-<hr>
 
 <details><summary><h2>Games : </h2></summary>
 
@@ -226,7 +214,6 @@
 - https://www.playtestcloud.com/    (Playtesting Mobile Games)
 
 </details>
-<hr>
 
 <details><summary><h2>Mail : </h2></summary>
 
@@ -237,7 +224,6 @@
 	rajat@gmail.com = rajat+rj@gmail.com = raja.t@gmail.com = rajat+rk@gmail.com
 
 </details>
-<hr>
 
 <details><summary><h2>Social Media : </h2></summary>
 
@@ -256,7 +242,6 @@
 - https://app.instafollowerspro.com/    (Insta Followers Pro)
 
 </details>
-<hr>
 
 <details><summary><h2>Tricks : </h2></summary>
 
@@ -270,4 +255,3 @@
 - has:attachment larger:10m    (Gmail)
 
 </details>
-<hr>
