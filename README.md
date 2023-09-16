@@ -1,25 +1,23 @@
 # Some Useful Websites
 
-<details><summary><h2>Financial : </h2></summary>
-	
+
+**Financial** :
 - https://www.chrislross.com/PPPConverter/    (Purchasing Power Parity Calculator to compare Money/Salary of 2 Countries)
 - https://intradayscreener.com/app    (Analyse Stock Market)
 - https://intradayscreener.com/app/price-action-scanner-intraday    (Analyse Stock Market for Intraday)
 - https://pricehistoryapp.com/    (Track Price History)
-  
-</details>
 
-<details><summary><h2>Data Storage/Transfer : </h2></summary>
-	
+<hr>
+
+**Data Storage/Transfer** :
 - https://www.terabox.com/    (1TB Storage)
 - https://toffeeshare.com/    (Share files privately & secure, without size limit, like torrent)
 - https://www.sharedrop.io/    (Send Files on same Network)
 - https://wetransfer.com/    (Send Large Files Online)
 
-</details>
+<hr>
 
-<details><summary><h2>Movies : </h2></summary>
-	
+**Movies** :
 - https://movies7.io/home    (Movies7 -  Hollywood Movies/WebSeries)
 - https://swatchseries.biz/    (sWatchseries : Watch Movies & TV Shows Online)
 - https://myflixer.pw/    (MyFlixer : Hollywood Movies/WebSeries)
@@ -33,10 +31,9 @@
 - search on google - soap2day
 - search on google - movie_name site:drive.google.com
 
-</details>
+<hr>
 
-<details><summary><h2>Education : </h2></summary>
-	
+**Education** :
 - https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes    (Solution to every LinkedIn assessment)
 - https://overapi.com/    (Programming Cheat Sheets)
 - https://www.useblackbox.io/    (BlackBox - Extract Code from Any Video and Turn any Question into Code)
@@ -65,10 +62,9 @@
 - https://flowcv.com/    (FlowCV - Online Resume/CV Builder)
 - https://quickref.me/    (QuickRef - Quick Reference Cheat Sheet)
 
-</details>
+<hr>
 
-<details><summary><h2>Softwares : </h2></summary>
-	
+**Softwares** :
 - https://filepursuit.com/    (Search and download anything)
 - https://ask4pc.net/    (Get free software's without any redirect)
 - https://filecr.com/    (FileCR - Download software/apps)
@@ -84,10 +80,9 @@
 - https://www.uneed.best/    (Provide different tools and website links)
 - https://www.futurepedia.io/    (Futurepedia - AI Tools)
 
-</details>
+<hr>
 
-<details><summary><h2>Live TV (Sports) : </h2></summary>
-	
+**Live TV (Sports)**:
 - https://hdstreamz.art/    (HD Streamz Android Application for Live TV, Sports)
 - https://hd.webcric.com/    (WebCric, Watch sports for free)
 - https://snehiptv.netlify.app/    (Live TV - Require Native MPEG + HLS Playback chrome extension)
@@ -98,10 +93,9 @@
 - http://onlineiptvplayer.com/    (Online m3u player)
 - https://github.com/yuliskov/SmartTubeNext#Installation    (SmartTubeNext - Adfree YouTube for Android TV)
 
-</details>
+<hr>
 
-<details><summary><h2>Photo & Video Apps : </h2></summary>
-
+**Photo & Video Apps** :
 - https://www.watermarkremover.io/    (Remove Watermarks from Images)
 - https://imageamigo.com/    (Photo editing tools)
 - https://www.cutout.pro/passport-photo-maker    (Make passport size photos + other photo tools)
@@ -124,10 +118,9 @@
 - https://pictory.ai/    (Pictory – Text to Video)
 - https://express.adobe.com/express-apps/animate-from-audio/    (Adobe Express : Animate from audio)
 
-</details>
+<hr>
 
-<details><summary><h2>Important : </h2></summary>
-
+**Important** :
 - https://tafcop.dgtelecom.gov.in/    (Check how many sim cards are issued on your Aadhaar card)
 - https://musclewiki.com/    (MuscleWiki : Exercise in Gym)
 - https://darebee.com/    (For fitness)
@@ -139,10 +132,9 @@
 - https://www.tabletwise.net/    (TabletWise - Learn About Medicines and Diseases)
 - https://facecheck.id    (FaceCheck - Find People Online by Photo)
 
-</details>
+<hr>
 
-<details><summary><h2>AI/Interactive : </h2></summary>
-
+**AI/Interactive** :
 - https://chat.openai.com/chat    (ChatGPT : AI Chat Bot)
 - https://chat.forefront.ai/    (Forefront Chat : AI Chat Bot)
 - https://lachief.io/    (Lachief : All AI Tools)
@@ -169,10 +161,9 @@
 - https://kodezi.com/    (Kodezi : AI for Programmers)
 - https://uizard.io/    (Uizard : Edit Screenshot using AI)
 
-</details>
+<hr>
 
-<details><summary><h2>Chrome Extensions : </h2></summary>
-
+**Chrome Extensions**
 - https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh    (Free VPN)
 - https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom    (AdBlock - Ad Blocker)
 - https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj    (Screenshot and Screen Recorder)
@@ -189,44 +180,42 @@
 - https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl    (Captcha Solver for Humans)
 - https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj?hl=en-GB    (Apply coupons automatically)
 
-</details>
 
-<details><summary><h2>Windows Applications : </h2></summary>
+<hr>
 
+**Windows Applications**
 - https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD    (Microsoft Powertoys - Add extra features in windows)
 - Windows Sandbox - Run any application in isolation (Turn on using windows features)    
 
-</details>
+<hr>
 
-<details><summary><h2>Android Applications : </h2></summary>
-
+**Android Applications**
 - https://espacioapk.com/    (EspacioAPK : Mod APKs)
 - https://play.google.com/store/apps/details?id=com.bagestudio.doublesidecamera&hl=en_IN&gl=US    (Double Side Camera)
 
-</details>
+<hr>
 
-<details><summary><h2>Games : </h2></summary>
-
+**Games** :
 - https://poki.com/    (Online Gaming)
 - https://repack-games.com/   (Download any Game for Free)
 - https://dodi-repacks.site/    (Download New Games - Search dodi repack on Google)
 - https://oldgamesdownload.com/    (Download Old Games)
 - https://www.playtestcloud.com/    (Playtesting Mobile Games)
 
-</details>
 
-<details><summary><h2>Mail : </h2></summary>
+<hr>
 
+**Mail** :
 - https://mail.yandex.com/    (Yandex Mail)
 - https://dropmail.me/en/    (Dropmail : Temporary Email Address)
 - https://temp-mail.org/en/    (Temporary Email Address)
 - Gmail : For multiple gmail add . In between or add + in end and write anything, it consider as same email
 	rajat@gmail.com = rajat+rj@gmail.com = raja.t@gmail.com = rajat+rk@gmail.com
 
-</details>
 
-<details><summary><h2>Social Media : </h2></summary>
+<hr>
 
+**Social Media** :
 - https://phantombuster.com/    (PhantomBuster : Social Media Tools)
 - https://tweethunter.io/unretweet    (TweetHunter : Delete All Your Retweets)
 - https://semiphemeral.com/dashboard    (Semiphemeral : Delete Tweets, Retweets, Likes)
@@ -241,10 +230,9 @@
 - https://likezoid.com/    (Likezoid - Windows App for free Likes)
 - https://app.instafollowerspro.com/    (Insta Followers Pro)
 
-</details>
+<hr>
 
-<details><summary><h2>Tricks : </h2></summary>
-
+**Tricks** :
 - Block all ads in mobile using Private DNS : dns.adguard.com 
 - Watch Youtube addfree : Just add - in between yout-ube in url
 - Remove ube from youtube in url to download any video.
@@ -253,5 +241,3 @@
 - chrome://settings/content/all    (Delete cache of a particular website)
 - Embed someones twitter video without retweeting them : copy tweet link, remove all text starting from '?' and add “/video/1”
 - has:attachment larger:10m    (Gmail)
-
-</details>
