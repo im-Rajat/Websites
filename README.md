@@ -178,7 +178,7 @@
 - Picture-in-Picture Extension     -    <https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg>
 - Highlighter - PDF & Web     -    <https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei>
 - Captcha Solver for Humans     -    <https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl>
-- Apply coupons automatically     -    <>
+- Apply coupons automatically     -    <https://chrome.google.com/webstore/detail/growbot-automator-for-ins/abhcgokmndbiegmmbjffdlpihgdmeejf>
 
 
 <hr>
