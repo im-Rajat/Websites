@@ -172,14 +172,15 @@
 - Adobe Acrobat: PDF editor     -    <https://chrome.google.com/webstore/detail/adobe-acrobat-pdf-edit-co/efaidnbmnnnibpcajpcglclefindmkaj>
 - Email Tracker     -    <https://chrome.google.com/webstore/detail/email-tracker-for-gmail-m/ndnaehgpjlnokgebbaldlmgkapkpjkkb>
 - Shopping Price Tracker     -    <https://chrome.google.com/webstore/detail/buyhatke/ojplmecpdpgccookcobabopnaifgidhf>
-- YouTube Enhancer     -    <https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle
+- YouTube Enhancer     -    <https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle>
 - Grammar Checker and Writing App     -    <https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen>
 - AI powered Writing Tool     -    <https://chrome.google.com/webstore/detail/compose-ai-ai-powered-wri/ddlbpiadoechcolndfeaonajmngmhblj>
 - Picture-in-Picture Extension     -    <https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg>
 - Highlighter - PDF & Web     -    <https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei>
 - Captcha Solver for Humans     -    <https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl>
 - Apply coupons automatically     -    <https://chrome.google.com/webstore/detail/growbot-automator-for-ins/abhcgokmndbiegmmbjffdlpihgdmeejf>
-
+- Notepad    -    <https://chrome.google.com/webstore/detail/notepad/hchcbafooaphheofgpijpfgklcmmmpff>
+- Quick Notepad    -    <https://chrome.google.com/webstore/detail/notepad/ffbhefmlcoihbjcmibbfkocmnaiacinp>
 
 <hr>
 
@@ -202,7 +203,6 @@
 - Download Old Games    -    <https://oldgamesdownload.com>
 - Playtesting Mobile Games    -    <https://www.playtestcloud.com>
 
-
 <hr>
 
 **Mail** :
@@ -211,7 +211,6 @@
 - Temporary Email Address    -    <https://temp-mail.org/en>
 - Gmail Trick: For multiple gmail add . In between or add + in end and write anything, it considers as same email
   	rajat@gmail.com = rajat+rj@gmail.com = raja.t@gmail.com = rajat+rk@gmail.com
-
 
 <hr>
 
