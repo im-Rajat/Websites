@@ -233,7 +233,7 @@
 
 **Tricks** :
 - Block all ads on mobile using Private DNS: dns.adguard.com
-- Turn Chrome into Notepad by typing this in URL bar: '''data:text/html, <html contenteditable>'''
+- Turn Chrome into Notepad by typing this in URL bar: ```data:text/html, <html contenteditable>```
 - Watch YouTube add-free: Just add - in between yout-ube in url
 - Remove ube from youtube in url to download any video.
 - open VS Code directly from any GitHub repository, Simply change ".com" to ".dev" or press "."
