@@ -22,7 +22,7 @@
 - sWatchseries: Watch Movies & TV Shows Online    -    <https://swatchseries.biz>
 - MyFlixer: Hollywood Movies/WebSeries    -    <https://myflixer.pw>
 - Bolly2Tolly: Indian Movies/WebSeries    -    <https://www.bolly2tolly.info>
-- BollyFlix: Bollywood Movies    -    <https://bollyflix.asia>
+- BollyFlix: Bollywood Movies    -    <https://bollyflix.boo/> or <https://bollyflix.asia>
 - Goku: Hollywood Movies/WebSeries    -    <https://goku.to>
 - WCOFun: Watch all Cartoons    -    <https://www.wcofun.net>
 - 90s TV Feeling    -    <https://www.my90stv.com>
