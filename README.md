@@ -18,12 +18,12 @@
 <hr>
 
 **Movies** :
-- Movies7: Hollywood Movies/WebSeries    -    <https://movies7.io/home>
-- sWatchseries: Watch Movies & TV Shows Online    -    <https://swatchseries.biz>
+- Movies7: Hollywood Movies/WebSeries    -    <https://movies7.to/home>
+- sWatchseries: Watch Movies & TV Shows Online    -    <https://swatchseries.is/home>
 - MyFlixer: Hollywood Movies/WebSeries    -    <https://myflixer.pw>
-- Bolly2Tolly: Indian Movies/WebSeries    -    <https://www.bolly2tolly.info>
-- BollyFlix: Bollywood Movies    -    <https://bollyflix.boo/> or <https://bollyflix.asia>
-- Goku: Hollywood Movies/WebSeries    -    <https://goku.to>
+- Bolly2Tolly: Indian Movies/WebSeries    -    <https://www.bolly2tolly.city>
+- BollyFlix: Bollywood Movies    -    <https://bollyflix.boo>
+- Goku: Hollywood Movies/WebSeries    -    <https://goku.watch/home>
 - WCOFun: Watch all Cartoons    -    <https://www.wcofun.net>
 - 90s TV Feeling    -    <https://www.my90stv.com>
 - HDMovie2: Bollywood & Hindi Dubbed Movies    -    <https://hdmovie2.bz>
