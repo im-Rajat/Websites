@@ -193,6 +193,7 @@
 **Android Applications**
 - EspacioAPK: Mod APKs    -    <https://espacioapk.com>
 - Double Side Camera    -    <https://play.google.com/store/apps/details?id=com.bagestudio.doublesidecamera&hl=en_IN&gl=US>
+- TravelBoast   -    ```Create distance travelling animated video```
 
 <hr>
 
