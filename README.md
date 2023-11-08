@@ -13,7 +13,8 @@
 - 1TB Storage    -    <https://www.terabox.com/>
 - Share files privately & secure, without size limit, like torrent    -    <https://toffeeshare.com>
 - Send Files on same Network    -    <https://www.sharedrop.io>
-- Send Large Files Online    -    <https://wetransfer.com>
+- Send Large Files Online up to 2GB    -    <https://wetransfer.com>
+- Send Large Files Online up to 5GB    -    <https://www.sendgb.com>
 
 <hr>
 
