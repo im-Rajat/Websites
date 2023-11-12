@@ -184,7 +184,7 @@
 
 **Windows Applications**
 - Microsoft Powertoys: Add extra features in windows    -    <https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD>
-- Windows Sandbox: Run any application in isolation  - "Turn on using windows features"
+- Windows Sandbox: Run any application in isolation  -    ```Turn on using windows features```
 
 <hr>
 
