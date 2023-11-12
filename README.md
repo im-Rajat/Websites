@@ -89,7 +89,6 @@
 - RedBox TV Android Application - for Live TV, Sports    -    <https://apkaward.net/redbox-tv19>
 - Watch sports for free, use VPN    -    <https://crichd.tv>
 - Get link of tv channels, then paste it on any m3u player    -    <https://github.com/iptv-org/iptv>
-- Online m3u player    -    <http://onlineiptvplayer.com>
 - SmartTubeNext: Adfree YouTube for Android TV    -     <https://github.com/yuliskov/SmartTubeNext#Installation>
 
 <hr>
