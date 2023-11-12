@@ -216,7 +216,6 @@
 **Social Media** :
 - PhantomBuster: Social Media Tools    -    <https://phantombuster.com>
 - TweetHunter: Delete All Your Retweets    -    <https://tweethunter.io/unretweet>
-- Semiphemeral: Delete Tweets, Retweets, Likes    -    <https://semiphemeral.com/dashboard>
 - TweetERASER: Delete Tweets Selectively    -    <https://www.tweeteraser.com/twitter/statuses>
 - GrowBot Automator for Instagram    -    <https://chrome.google.com/webstore/detail/growbot-automator-for-ins/abhcgokmndbiegmmbjffdlpihgdmeejf>
 - SocialBrandHub: Buy Follows, Likes, etc    -    <https://socialbrandhub.com>
