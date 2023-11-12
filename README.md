@@ -86,8 +86,6 @@
 **Live TV (Sports)**:
 - HD Streamz: Android Application for Live TV, Sports    -    <https://hdstreamz.art>
 - WebCric, Watch sports for free    -    <https://hd.webcric.com>
-- Live TV: Require Native MPEG + HLS Playback chrome extension    -    <https://snehiptv.netlify.app>
-- Live TV    -    <https://nayeemparvez.chadasaniya.cf>
 - RedBox TV Android Application - for Live TV, Sports    -    <https://apkaward.net/redbox-tv19>
 - Watch sports for free, use VPN    -    <https://crichd.tv>
 - Get link of tv channels, then paste it on any m3u player    -    <https://github.com/iptv-org/iptv>
