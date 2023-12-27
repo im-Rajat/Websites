@@ -30,6 +30,7 @@
 - 90s TV Feeling    -    <https://www.my90stv.com>
 - HDMovie2: Bollywood & Hindi Dubbed Movies    -    <https://hdmovie2.bz>
 - Mhdtvworld: Live TV    -    <https://mhdtvworld.me>
+- Check Parental guidance, Content Rating, Scene timing to skip inappropriate scenes for Indian web series    -    <https://www.webseriestiming.com/>
 - search on google - soap2day
 - search on google - movie_name site:drive.google.com
 
