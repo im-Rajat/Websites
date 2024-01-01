@@ -208,7 +208,6 @@
 <hr>
 
 **Mail** :
-- Yandex Mail    -    <https://mail.yandex.com>
 - Dropmail: Temporary Email Address    -    <https://dropmail.me/en>
 - Temporary Email Address    -    <https://temp-mail.org/en>
 - Gmail Trick: For multiple gmail add . In between or add + in end and write anything, it considers as same email
