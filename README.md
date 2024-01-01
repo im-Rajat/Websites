@@ -64,6 +64,7 @@
 - CodeConverter: Convert code between languages    -    <https://www.codeconvert.ai/free-converter>
 - FlowCV: Online Resume/CV Builder    -    <https://flowcv.com>
 - QuickRef: Quick Reference Cheat Sheet    -    <https://quickref.me>
+- Free Programming Books (Github)    -    <https://github.com/EbookFoundation/free-programming-books>
 
 <hr>
 
