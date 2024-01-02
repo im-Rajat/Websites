@@ -163,6 +163,7 @@
 - LogicBalls: FREE AI Apps     -    <https://logicballs.com>
 - Kodezi: AI for Programmers     -    <https://kodezi.com>
 - Uizard: Edit Screenshot using AI     -    <https://uizard.io>
+- All different AI Tools    -    <https://www.digitalsamaritan.co>
 
 <hr>
 
