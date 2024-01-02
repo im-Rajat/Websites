@@ -74,7 +74,6 @@
 - Get free software without any redirect    -    <https://ask4pc.net>
 - FileCR: Download software/apps    -    <https://filecr.com>
 - Google index search: Provide Links    -    <https://lumpysoft.com>
-- Create image from Twitter/LinkedIn link/posts    -    <https://poet.so>
 - Find serial numbers    -    <https://smartserials.com>
 - Online File Converter    -    <https://cloudconvert.com>
 - Online PDF editor and more    -    <https://www.sejda.com>
