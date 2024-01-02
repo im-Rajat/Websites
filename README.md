@@ -119,6 +119,7 @@
 - Runway: AI Tools + Video Editing    -    <https://runwayml.com>
 - Pictory: Text to Video    -    <https://pictory.ai>
 - Adobe Express: Animate from audio     -    <https://express.adobe.com/express-apps/animate-from-audio>
+- Submagic: Add captions in short videos    -    <https://www.submagic.co>
 
 <hr>
 
