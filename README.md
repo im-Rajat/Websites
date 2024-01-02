@@ -82,7 +82,6 @@
 - Provide links to different sites    -    <https://github.com/Igglybuff/awesome-piracy>
 - Find public files in Google Drive    -    <https://www.dedigger.com>
 - Provide different tools and website links    -    <https://www.uneed.best>
-- Futurepedia: AI Tools    -    <https://www.futurepedia.io>
 
 <hr>
 
@@ -162,6 +161,7 @@
 - LogicBalls: FREE AI Apps     -    <https://logicballs.com>
 - Kodezi: AI for Programmers     -    <https://kodezi.com>
 - Uizard: Edit Screenshot using AI     -    <https://uizard.io>
+- Futurepedia: AI Tools    -    <https://www.futurepedia.io>
 - All different AI Tools    -    <https://www.digitalsamaritan.co>
 
 <hr>
