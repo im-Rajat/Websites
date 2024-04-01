@@ -1,11 +1,22 @@
 # Some Useful Websites
 
 
-**Financial** :
+**Important/Financial** :
 - Purchasing Power Parity Calculator to compare Money/Salary of 2 Countries	-	<https://www.chrislross.com/PPPConverter>
 - Analyse Stock Market	- 	<https://intradayscreener.com/app>
 - Analyse Stock Market for Intraday	- 	<https://intradayscreener.com/app/price-action-scanner-intraday>
 - Track Price History	- 	<https://pricehistoryapp.com>
+- Check how many sim cards are issued on your Aadhaar card     -    <https://tafcop.dgtelecom.gov.in>
+- MuscleWiki : Exercise in Gym     -    <https://musclewiki.com>
+- For fitness     -    <https://darebee.com>
+- Direct links to delete your account from web services     -    <https://justdeleteme.xyz>
+- Open any website without vpn     -    <https://proxyium.com>
+- Find company of any sms receive without number     -    <https://smsheader.trai.gov.in>
+- CEIR: Block/Unblock Stolen/Lost Mobile     -    <https://www.ceir.gov.in/Home/index.jsp>
+- myScheme: Search all Government Schemes     -    <https://www.myscheme.gov.in>
+- TabletWise: Learn About Medicines and Diseases     -    <https://www.tabletwise.net>
+- FaceCheck: Find People Online by Photo     -    <https://facecheck.id>
+- Citizen-centric initiative of Department of Telecommunications    -    <https://sancharsaathi.gov.in/>
 
 <hr>
 
@@ -120,18 +131,6 @@
 - Submagic: Add captions in short videos    -    <https://www.submagic.co>
 
 <hr>
-
-**Important** :
-- Check how many sim cards are issued on your Aadhaar card     -    <https://tafcop.dgtelecom.gov.in>
-- MuscleWiki : Exercise in Gym     -    <https://musclewiki.com>
-- For fitness     -    <https://darebee.com>
-- Direct links to delete your account from web services     -    <https://justdeleteme.xyz>
-- Open any website without vpn     -    <https://proxyium.com>
-- Find company of any sms receive without number     -    <https://smsheader.trai.gov.in>
-- CEIR: Block/Unblock Stolen/Lost Mobile     -    <https://www.ceir.gov.in/Home/index.jsp>
-- myScheme: Search all Government Schemes     -    <https://www.myscheme.gov.in>
-- TabletWise: Learn About Medicines and Diseases     -    <https://www.tabletwise.net>
-- FaceCheck: Find People Online by Photo     -    <https://facecheck.id>
 
 <hr>
 
