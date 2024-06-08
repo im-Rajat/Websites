@@ -77,6 +77,7 @@
 - FlowCV: Online Resume/CV Builder    -    <https://flowcv.com>
 - CheatSheets: Quick Reference Cheat Sheets    -    <https://cheatsheets.zip/>
 - Free Programming Books (Github)    -    <https://github.com/EbookFoundation/free-programming-books>
+- Git Profile Generator    -    <https://profile-readme-generator.com/>
 
 <hr>
 
