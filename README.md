@@ -1,7 +1,7 @@
 # Some Useful Websites
 
 
-**Important/Financial** :
+### Important/Financial :
 - Purchasing Power Parity Calculator to compare Money/Salary of 2 Countries	-	<https://www.chrislross.com/PPPConverter>
 - Analyse Stock Market	- 	<https://intradayscreener.com/app>
 - Analyse Stock Market for Intraday	- 	<https://intradayscreener.com/app/price-action-scanner-intraday>
@@ -20,7 +20,7 @@
 
 <hr>
 
-**Data Storage/Transfer** :
+### Data Storage/Transfer :
 - Unlim Cloud Storage (Unlimited Cloud storage of telegram)    -    <https://www.unlimcloud.cloud> | <https://play.google.com/store/apps/details?id=com.kratosle.unlim&hl=en&gl=US>
 - 1TB Storage    -    <https://www.terabox.com/>
 - Share files privately & secure, without size limit, like torrent    -    <https://toffeeshare.com>
@@ -30,7 +30,7 @@
 
 <hr>
 
-**Movies** :
+### Movies :
 - Movies7: Hollywood Movies/WebSeries    -    <https://movies7.to/home>
 - sWatchseries: Watch Movies & TV Shows Online    -    <https://swatchseries.is/home>
 - MyFlixer: Hollywood Movies/WebSeries    -    <https://myflixer.pw>
@@ -48,7 +48,7 @@
 
 <hr>
 
-**Education** :
+### Education :
 - Data Structure And Algorithms Visualizations    -    <https://www.cs.usfca.edu/~galles/visualization/Algorithms.html> & <https://visualgo.net/en>
 - Solution to every LinkedIn assessment    -    <https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes>
 - Programming Cheat Sheets    -    <https://overapi.com>
@@ -82,7 +82,7 @@
 
 <hr>
 
-**Softwares** :
+### Softwares :
 - Search and download anything    -    <https://filepursuit.com>
 - Get free software without any redirect    -    <https://ask4pc.net>
 - FileCR: Download software/apps    -    <https://filecr.com>
@@ -98,7 +98,7 @@
 
 <hr>
 
-**Live TV (Sports)**:
+### Live TV (Sports) :
 - HD Streamz: Android Application for Live TV, Sports    -    <https://hdstreamz.art>
 - WebCric, Watch sports for free    -    <https://hd.webcric.com>
 - RedBox TV Android Application - for Live TV, Sports    -    <https://apkaward.net/redbox-tv19>
@@ -108,7 +108,7 @@
 
 <hr>
 
-**Photo & Video Apps** :
+### Photo & Video Apps :
 - Remove Watermarks from Images    -    <https://www.watermarkremover.io>
 - Photo editing tools    -    <https://imageamigo.com>
 - Make passport size photos + other photo tools    -    <https://www.cutout.pro/passport-photo-maker>
@@ -134,9 +134,7 @@
 
 <hr>
 
-<hr>
-
-**AI/Interactive** :
+### AI/Interactive :
 - Clone your Voice, Generate AI voices     -    <https://play.ht/>
 - ChatGPT: AI Chat Bot     -    <https://chat.openai.com/chat>
 - Forefront Chat: AI Chat Bot     -    <https://chat.forefront.ai>
@@ -168,7 +166,7 @@
 
 <hr>
 
-**Chrome Extensions**
+### Chrome Extensions :
 - Free VPN     -    <https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh>
 - AdBlock: Ad Blocker     -    <https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom>
 - Screenshot and Screen Recorder     -    <https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj>
@@ -189,20 +187,20 @@
 
 <hr>
 
-**Windows Applications**
+### Windows Applications :
 - Microsoft Powertoys: Add extra features in windows    -    <https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD>
 - Windows Sandbox: Run any application in isolation  -    ```Turn on using windows features```
 
 <hr>
 
-**Android Applications**
+### Android Applications :
 - EspacioAPK: Mod APKs    -    <https://espacioapk.com>
 - Double Side Camera    -    <https://play.google.com/store/apps/details?id=com.bagestudio.doublesidecamera&hl=en_IN&gl=US>
 - TravelBoast   -    ```Create distance travelling animated video```
 
 <hr>
 
-**Games** :
+### Games :
 - Online Gaming    -    <https://poki.com>
 - Download any Game for Free    -    <https://repack-games.com>
 - Download New Games: Search dodi repack on Google    -    <https://dodi-repacks.site>
@@ -211,7 +209,7 @@
 
 <hr>
 
-**Mail** :
+### Mail :
 - Dropmail: Temporary Email Address    -    <https://dropmail.me/en>
 - Temporary Email Address    -    <https://temp-mail.org/en>
 - Gmail Trick: For multiple gmail add . In between or add + in end and write anything, it considers as same email
@@ -219,7 +217,7 @@
 
 <hr>
 
-**Social Media** :
+### Social Media :
 - PhantomBuster: Social Media Tools    -    <https://phantombuster.com>
 - TweetHunter: Delete All Your Retweets    -    <https://tweethunter.io/unretweet>
 - TweetERASER: Delete Tweets Selectively    -    <https://www.tweeteraser.com/twitter/statuses>
@@ -235,7 +233,7 @@
 
 <hr>
 
-**Tricks** :
+### Tricks :
 - Block all ads on mobile using Private DNS: dns.adguard.com
 - Turn Chrome into Notepad by typing this in URL bar: ```data:text/html, <html contenteditable>```
 - Watch YouTube add-free: Just add - in between yout-ube in url
