@@ -49,7 +49,7 @@
 <hr>
 
 **Education** :
-- Data Structure And Algorithms Visualizations    -    <https://www.cs.usfca.edu/~galles/visualization/Algorithms.html>, <https://visualgo.net/en>
+- Data Structure And Algorithms Visualizations    -    <https://www.cs.usfca.edu/~galles/visualization/Algorithms.html> & <https://visualgo.net/en>
 - Solution to every LinkedIn assessment    -    <https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes>
 - Programming Cheat Sheets    -    <https://overapi.com>
 - BlackBox: Extract Code from Any Video and Turn any Question into Code    -    <https://www.useblackbox.io>
