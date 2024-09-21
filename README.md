@@ -141,7 +141,6 @@
 - Lachief: All AI Tools     -    <https://lachief.io>
 - Perplexity AI: Ask Anything     -    <https://www.perplexity.ai>
 - Create your Perfect Sound Environment to Work and Relax     -    <https://www.noisli.com>
-- OpenAI Labs: Convert Text to Image using AI     -    <https://labs.openai.com>
 - BuildAI.Space: Trip Planner     -    <https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961>
 - Convert Text to Image using AI     -    <https://www.craiyon.com>
 - AI to Solution     -    <https://beta.openai.com/playground>
