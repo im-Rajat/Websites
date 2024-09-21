@@ -83,7 +83,6 @@
 <hr>
 
 **Softwares** :
-- Clone your Voice, Generate AI voices     -    <https://play.ht/>
 - Search and download anything    -    <https://filepursuit.com>
 - Get free software without any redirect    -    <https://ask4pc.net>
 - FileCR: Download software/apps    -    <https://filecr.com>
@@ -138,6 +137,7 @@
 <hr>
 
 **AI/Interactive** :
+- Clone your Voice, Generate AI voices     -    <https://play.ht/>
 - ChatGPT: AI Chat Bot     -    <https://chat.openai.com/chat>
 - Forefront Chat: AI Chat Bot     -    <https://chat.forefront.ai>
 - Lachief: All AI Tools     -    <https://lachief.io>
