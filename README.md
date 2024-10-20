@@ -32,6 +32,7 @@
 
 ### Movies :
 - Movies7: Hollywood Movies/WebSeries    -    <https://movies7.to/home>
+- Online Free Netflix    -    <https://pcmirror.cc/> | <https://netmirror.app/>
 - sWatchseries: Watch Movies & TV Shows Online    -    <https://swatchseries.is/home>
 - MyFlixer: Hollywood Movies/WebSeries    -    <https://myflixer.pw>
 - Bolly2Tolly: Indian Movies/WebSeries    -    <https://www.bolly2tolly.city>
