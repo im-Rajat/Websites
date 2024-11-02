@@ -38,9 +38,7 @@
 - sWatchseries: Watch Movies & TV Shows Online    -    <https://swatchseries.is/home>
 - MyFlixer: Hollywood Movies/WebSeries    -    <https://curiousanimal.tv/>
 - Bolly2Tolly: Indian Movies/WebSeries    -    <https://www.bolly2tolly.mov/>
-- Multimovies: Indian Movie/WebSeries    -    <https://multimovies.uno>
-- BollyFlix: Bollywood Movies    -    <https://bollyflix.boo>
-- Goku: Hollywood Movies/WebSeries    -    <https://goku.watch/home>
+- Goku: Hollywood Movies/WebSeries    -    <https://gokutv.pics/>
 - WCOFun: Watch all Cartoons    -    <https://www.wcofun.net>
 - 90s TV Feeling    -    <https://www.my90stv.com>
 - HDMovie2: Bollywood & Hindi Dubbed Movies    -    <https://hdmovie2.bz>
