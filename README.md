@@ -31,11 +31,13 @@
 <hr>
 
 ### Movies :
-- Movies7: Hollywood Movies/WebSeries    -    <https://movies7.to/home>
 - Online Free Netflix    -    <https://pcmirror.cc/> | <https://netmirror.app/>
+- Movies7: Hollywood Movies/WebSeries    -    <https://movies7to.net/>
+- Multi Movies    -    <https://multimovies.bond/>
+- Vega Movies    -    <https://vegamovies.si/>
 - sWatchseries: Watch Movies & TV Shows Online    -    <https://swatchseries.is/home>
-- MyFlixer: Hollywood Movies/WebSeries    -    <https://myflixer.pw>
-- Bolly2Tolly: Indian Movies/WebSeries    -    <https://www.bolly2tolly.city>
+- MyFlixer: Hollywood Movies/WebSeries    -    <https://curiousanimal.tv/>
+- Bolly2Tolly: Indian Movies/WebSeries    -    <https://www.bolly2tolly.mov/>
 - Multimovies: Indian Movie/WebSeries    -    <https://multimovies.uno>
 - BollyFlix: Bollywood Movies    -    <https://bollyflix.boo>
 - Goku: Hollywood Movies/WebSeries    -    <https://goku.watch/home>
