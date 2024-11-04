@@ -30,26 +30,21 @@
 
 <hr>
 
-### Movies :
+### Movies | Live TV (Sports) :
 - Online Free Netflix    -    <https://pcmirror.cc/> | <https://netmirror.app/>
 - Search these website names Google (Bcz these sites URLs keep changing with time)
-  - Bollyflix, Movies7, MultiMovies, VegaMovies, sWatchseries, MyFlixer, Bolly2Tolly, GokuMovies, HDMovie2
+  - Bollyflix, Movies7, MultiMovies, VegaMovies, sWatchseries, MyFlixer, Bolly2Tolly, GokuMovies, HDMovie2, soap2day
 - WCOFun: Watch all Cartoons    -    <https://www.wcofun.net>
 - 90s TV Feeling    -    <https://www.my90stv.com>
 - Check Parental guidance, Content Rating, Scene timing to skip inappropriate scenes for Indian web series    -    <https://www.webseriestiming.com/>
-- search on google - soap2day
 - search on google - movie_name site:drive.google.com
-
-<hr>
-
-### Live TV (Sports) :
-- HD Streamz: Android Application for Live TV, Sports    -    <https://hdstreamz.art>
+- HD Streamz: Android Application for Live TV, Sports
 - WebCric, Watch sports for free    -    <https://hd.webcric.com>
-- RedBox TV Android Application - for Live TV, Sports    -    <https://apkaward.net/redbox-tv19>
+- RedBox TV Android Application - for Live TV, Sports
 - Watch sports for free, use VPN    -    <https://crichd.tv>
 - Get link of tv channels, then paste it on any m3u player    -    <https://github.com/iptv-org/iptv>
 - SmartTubeNext: Adfree YouTube for Android TV    -     <https://github.com/yuliskov/SmartTubeNext#Installation>
-- Mhdtvworld: Live TV    -    <https://mhdtvworld.me>
+- Mhdtvworld: Live TV
 
 <hr>
 
