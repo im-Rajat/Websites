@@ -32,21 +32,24 @@
 
 ### Movies :
 - Online Free Netflix    -    <https://pcmirror.cc/> | <https://netmirror.app/>
-- Bollyflix    -    <https://bollyflix.date/>
-- Movies7: Hollywood Movies/WebSeries    -    <https://movies7to.net/>
-- Multi Movies    -    <https://multimovies.bond/>
-- Vega Movies    -    <https://vegamovies.si/>
-- sWatchseries: Watch Movies & TV Shows Online    -    <https://swatchseries.is/home>
-- MyFlixer: Hollywood Movies/WebSeries    -    <https://curiousanimal.tv/>
-- Bolly2Tolly: Indian Movies/WebSeries    -    <https://www.bolly2tolly.mov/>
-- Goku: Hollywood Movies/WebSeries    -    <https://gokutv.pics/>
+- Search these website names Google (Bcz these sites URLs keep changing with time)
+  - Bollyflix, Movies7, MultiMovies, VegaMovies, sWatchseries, MyFlixer, Bolly2Tolly, GokuMovies, HDMovie2
 - WCOFun: Watch all Cartoons    -    <https://www.wcofun.net>
 - 90s TV Feeling    -    <https://www.my90stv.com>
-- HDMovie2: Bollywood & Hindi Dubbed Movies    -    <https://hdmovie2.bz>
-- Mhdtvworld: Live TV    -    <https://mhdtvworld.me>
 - Check Parental guidance, Content Rating, Scene timing to skip inappropriate scenes for Indian web series    -    <https://www.webseriestiming.com/>
 - search on google - soap2day
 - search on google - movie_name site:drive.google.com
+
+<hr>
+
+### Live TV (Sports) :
+- HD Streamz: Android Application for Live TV, Sports    -    <https://hdstreamz.art>
+- WebCric, Watch sports for free    -    <https://hd.webcric.com>
+- RedBox TV Android Application - for Live TV, Sports    -    <https://apkaward.net/redbox-tv19>
+- Watch sports for free, use VPN    -    <https://crichd.tv>
+- Get link of tv channels, then paste it on any m3u player    -    <https://github.com/iptv-org/iptv>
+- SmartTubeNext: Adfree YouTube for Android TV    -     <https://github.com/yuliskov/SmartTubeNext#Installation>
+- Mhdtvworld: Live TV    -    <https://mhdtvworld.me>
 
 <hr>
 
@@ -97,16 +100,6 @@
 - Provide links to different sites    -    <https://github.com/Igglybuff/awesome-piracy>
 - Find public files in Google Drive    -    <https://www.dedigger.com>
 - Provide different tools and website links    -    <https://www.uneed.best>
-
-<hr>
-
-### Live TV (Sports) :
-- HD Streamz: Android Application for Live TV, Sports    -    <https://hdstreamz.art>
-- WebCric, Watch sports for free    -    <https://hd.webcric.com>
-- RedBox TV Android Application - for Live TV, Sports    -    <https://apkaward.net/redbox-tv19>
-- Watch sports for free, use VPN    -    <https://crichd.tv>
-- Get link of tv channels, then paste it on any m3u player    -    <https://github.com/iptv-org/iptv>
-- SmartTubeNext: Adfree YouTube for Android TV    -     <https://github.com/yuliskov/SmartTubeNext#Installation>
 
 <hr>
 
