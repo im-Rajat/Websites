@@ -32,6 +32,7 @@
 
 ### Movies :
 - Online Free Netflix    -    <https://pcmirror.cc/> | <https://netmirror.app/>
+- Bollyflix    -    <https://bollyflix.date/>
 - Movies7: Hollywood Movies/WebSeries    -    <https://movies7to.net/>
 - Multi Movies    -    <https://multimovies.bond/>
 - Vega Movies    -    <https://vegamovies.si/>
