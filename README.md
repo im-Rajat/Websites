@@ -36,7 +36,6 @@
   - Bollyflix, Movies7, MultiMovies, VegaMovies, sWatchseries, MyFlixer, Bolly2Tolly, GokuMovies, HDMovie2, soap2day
 - WCOFun: Watch all Cartoons    -    <https://www.wcofun.net>
 - 90s TV Feeling    -    <https://www.my90stv.com>
-- Check Parental guidance, Content Rating, Scene timing to skip inappropriate scenes for Indian web series    -    <https://www.webseriestiming.com/>
 - search on google - movie_name site:drive.google.com
 - HD Streamz: Android Application for Live TV, Sports
 - WebCric, Watch sports for free    -    <https://hd.webcric.com>
