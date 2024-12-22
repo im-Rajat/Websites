@@ -31,9 +31,9 @@
 <hr>
 
 ### Movies | Live TV (Sports) :
-- Online Free Netflix    -    <https://pcmirror.cc/> | <https://netmirror.app/>
+- Online Free Netflix    -    <https://netmirror.app/> | <https://pcmirror.cc/>
 - Search these website names Google (Bcz these sites URLs keep changing with time)
-  - Bollyflix, Movies7, MultiMovies, VegaMovies, sWatchseries, MyFlixer, Bolly2Tolly, GokuMovies, HDMovie2, soap2day
+  - Bollyflix, moviesmod, Movies7, MultiMovies, VegaMovies, sWatchseries, MyFlixer, Bolly2Tolly, GokuMovies, HDMovie2, soap2day
 - WCOFun: Watch all Cartoons    -    <https://www.wcofun.net>
 - 90s TV Feeling    -    <https://www.my90stv.com>
 - search on google - movie_name site:drive.google.com
