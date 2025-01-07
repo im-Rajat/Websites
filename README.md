@@ -48,6 +48,8 @@
 <hr>
 
 ### Education :
+- You can access all Medium articles for free    -    <https://freedium.cfd/>
+- Create a new website with AI    -    <https://10web.io/>
 - Data Structure And Algorithms Visualizations    -    <https://www.cs.usfca.edu/~galles/visualization/Algorithms.html> & <https://visualgo.net/en>
 - Solution to every LinkedIn assessment    -    <https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes>
 - Programming Cheat Sheets    -    <https://overapi.com>
@@ -100,6 +102,8 @@
 ### Photo & Video Apps :
 - Remove Watermarks from Images    -    <https://www.watermarkremover.io>
 - Photo editing tools    -    <https://imageamigo.com>
+- AI Images & Videos    -    <https://klingai.com/>
+- AI Image to Video    -    <https://vidu.studio/create/img2video>
 - Make passport size photos + other photo tools    -    <https://www.cutout.pro/passport-photo-maker>
 - D-ID: Generate Video from Script using AI    -    <https://www.d-id.com>
 - gfpgan/tencentarc: Convert Image From Low to High Quality    -    <http://replicate.com/tencentarc/gfpgan>
@@ -120,6 +124,7 @@
 - Pictory: Text to Video    -    <https://pictory.ai>
 - Adobe Express: Animate from audio     -    <https://express.adobe.com/express-apps/animate-from-audio>
 - Submagic: Add captions in short videos    -    <https://www.submagic.co>
+- Free photos & videos    -    <https://www.pexels.com/>
 
 <hr>
 
@@ -231,3 +236,8 @@
 - chrome://settings/content/all    (Delete cache of a particular website)
 - Embed someones twitter video without retweeting them : copy tweet link, remove all text starting from '?' and add “/video/1”
 - has:attachment larger:10m    (Gmail)
+- Hide your data in a image : COPY/B IMAGEFILE.JPG + DATA.RAR HIDDEN.JPG
+- Amazon Discount : &pct-off=50- (Add this in URL)
+- Remove TV ads : Add following IP in the DNS1 and DNS2 section,
+    - DNS 1: 94.140.14.14
+    - DNS 2: 94.140.15.15
