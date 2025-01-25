@@ -202,14 +202,6 @@
 
 <hr>
 
-### Mail :
-- Dropmail: Temporary Email Address    -    <https://dropmail.me/en>
-- Temporary Email Address    -    <https://temp-mail.org/en>
-- Gmail Trick: For multiple gmail add . In between or add + in end and write anything, it considers as same email
-  	rajat@gmail.com = rajat+rj@gmail.com = raja.t@gmail.com = rajat+rk@gmail.com
-
-<hr>
-
 ### Social Media :
 - PhantomBuster: Social Media Tools    -    <https://phantombuster.com>
 - TweetHunter: Delete All Your Retweets    -    <https://tweethunter.io/unretweet>
@@ -223,6 +215,7 @@
 - Soc-Promotion: Free Likes    -    <https://soc-promotion.com/free-instagram-promotion>
 - Likezoid: Windows App for free Likes    -    <https://likezoid.com>
 - Insta Followers Pro    -    <https://app.instafollowerspro.com>
+- Temporary Email Address    -    <https://dropmail.me/en> | <https://temp-mail.io/en>
 
 <hr>
 
@@ -241,3 +234,5 @@
 - Remove TV ads : Add following IP in the DNS1 and DNS2 section,
     - DNS 1: 94.140.14.14
     - DNS 2: 94.140.15.15
+- Gmail Trick: For multiple gmail add . In between or add + in end and write anything, it considers as same email
+  	rajat@gmail.com = rajat+rj@gmail.com = raja.t@gmail.com = rajat+rk@gmail.com
