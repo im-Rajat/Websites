@@ -17,6 +17,7 @@
 - TabletWise: Learn About Medicines and Diseases     -    <https://www.tabletwise.net>
 - FaceCheck: Find People Online by Photo     -    <https://facecheck.id>
 - Citizen-centric initiative of Department of Telecommunications    -    <https://sancharsaathi.gov.in/>
+- Instruction to delete your account on a site    -    <https://www.accountkiller.com>
 
 <hr>
 
@@ -33,9 +34,8 @@
 ### Movies | Live TV (Sports) :
 - Online Free Netflix    -    <https://netmirror.app/> | <https://pcmirror.cc/>
 - Search these website names Google (Bcz these sites URLs keep changing with time)
-  - Bollyflix, moviesmod, Movies7, MultiMovies, VegaMovies, sWatchseries, MyFlixer, Bolly2Tolly, GokuMovies, HDMovie2, soap2day
-- WCOFun: Watch all Cartoons    -    <https://www.wcofun.net>
-- 90s TV Feeling    -    <https://www.my90stv.com>
+  - Bollyflix, desiremovies, moviesmod, Movies7, MultiMovies, VegaMovies, sWatchseries, MyFlixer, Bolly2Tolly, GokuMovies, HDMovie2, soap2day
+- 90s TV Feeling    -    <https://www.myretrotvs.com/>
 - search on google - movie_name site:drive.google.com
 - HD Streamz: Android Application for Live TV, Sports
 - WebCric, Watch sports for free    -    <https://hd.webcric.com>
@@ -44,11 +44,13 @@
 - Get link of tv channels, then paste it on any m3u player    -    <https://github.com/iptv-org/iptv>
 - SmartTubeNext: Adfree YouTube for Android TV    -     <https://github.com/yuliskov/SmartTubeNext#Installation>
 - Mhdtvworld: Live TV
+- YTS Torrent or Watch Online    -    <https://en.yts-official.mx/>
 
 <hr>
 
 ### Education :
 - You can access all Medium articles for free    -    <https://freedium.cfd/>
+- Play coding games    -    <https://www.codingame.com/>
 - Create a new website with AI    -    <https://10web.io/>
 - Data Structure And Algorithms Visualizations    -    <https://www.cs.usfca.edu/~galles/visualization/Algorithms.html> & <https://visualgo.net/en>
 - Solution to every LinkedIn assessment    -    <https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes>
@@ -92,10 +94,10 @@
 - Online File Converter    -    <https://cloudconvert.com>
 - Online PDF editor and more    -    <https://www.sejda.com>
 - Tools for PDF, Image, Video    -    <https://tinywow.com>
-- Instruction to delete your account on a site    -    <https://www.accountkiller.com>
 - Provide links to different sites    -    <https://github.com/Igglybuff/awesome-piracy>
 - Find public files in Google Drive    -    <https://www.dedigger.com>
 - Provide different tools and website links    -    <https://www.uneed.best>
+- PNG to PDF Converter    -    <https://tools.pdf24.org/en/png-to-pdf>
 
 <hr>
 
@@ -125,6 +127,7 @@
 - Adobe Express: Animate from audio     -    <https://express.adobe.com/express-apps/animate-from-audio>
 - Submagic: Add captions in short videos    -    <https://www.submagic.co>
 - Free photos & videos    -    <https://www.pexels.com/>
+- Free Medical Certificate    -    <https://medicalcertificategenerator.com/>
 
 <hr>
 
@@ -156,6 +159,7 @@
 - Uizard: Edit Screenshot using AI     -    <https://uizard.io>
 - Futurepedia: AI Tools    -    <https://www.futurepedia.io>
 - All different AI Tools    -    <https://www.digitalsamaritan.co>
+- Search clips by quotes    -    <https://getyarn.io/>
 
 <hr>
 
