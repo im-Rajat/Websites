@@ -35,12 +35,12 @@
 - Online Free Netflix    -    <https://netmirror.app/> | <https://net20.cc/>
 - Search these website names Google (Bcz these sites URLs keep changing with time) - Bollyflix, desiremovies, moviebox, VegaMovies, MyFlixer, soap2day
 - 90s TV Feeling    -    <https://www.myretrotvs.com/>
-- search on google - movie_name site:drive.google.com
 - HD Streamz: Android Application for Live TV, Sports
 - Get link of tv channels, then paste it on any m3u player    -    <https://github.com/iptv-org/iptv>
 - SmartTubeNext: Adfree YouTube for Android TV    -     <https://github.com/yuliskov/SmartTubeNext#Installation>
 - Mhdtvworld: Live TV
 - YTS Torrent or Watch Online    -    <https://en.yts-official.mx/>
+- Watch cricket online    -    <https://crichdi.com/>
 
 <hr>
 
