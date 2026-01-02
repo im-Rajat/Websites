@@ -24,6 +24,7 @@
 ### Data Storage/Transfer :
 - Unlim Cloud Storage (Unlimited Cloud storage of telegram)    -    <https://unlim-cloud.web.app/> | <https://play.google.com/store/apps/details?id=com.kratosle.unlim&hl=en&gl=US>
 - 1TB Storage    -    <https://www.terabox.com/>
+- 1TB Storage    -    <https://www.febbox.com/>
 - Share files privately & secure, without size limit, like torrent    -    <https://toffeeshare.com>
 - Send Files on same Network    -    <https://www.sharedrop.io>
 - Send Large Files Online up to 2GB    -    <https://wetransfer.com>
@@ -99,6 +100,8 @@
 <hr>
 
 ### Photo & Video Apps :
+- Post your images here and get URL    -    <https://postimages.org/>
+- Free Image URL Generator    -    <https://www.imghippo.com/>
 - Remove Watermarks from Images    -    <https://www.watermarkremover.io>
 - Photo editing tools    -    <https://imageamigo.com>
 - AI Images & Videos    -    <https://klingai.com/>
