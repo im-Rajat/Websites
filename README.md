@@ -207,19 +207,13 @@
 <hr>
 
 ### Social Media :
-- PhantomBuster: Social Media Tools    -    <https://phantombuster.com>
-- TweetHunter: Delete All Your Retweets    -    <https://tweethunter.io/unretweet>
-- TweetERASER: Delete Tweets Selectively    -    <https://www.tweeteraser.com/twitter/statuses>
+- Temporary Email Address    -    <https://dropmail.me/en> | <https://temp-mail.io/en>
 - GrowBot Automator for Instagram    -    <https://chrome.google.com/webstore/detail/growbot-automator-for-ins/abhcgokmndbiegmmbjffdlpihgdmeejf>
 - SocialBrandHub: Buy Follows, Likes, etc    -    <https://socialbrandhub.com>
 - FollowersIndia: Buy Follows, Likes, etc    -    <https://followersindia.com>
 - SocialDaddy: Buy Follows, Likes, etc    -    <https://socialdaddy.net>
 - Like4Like: Get Likes and Followers    -    <https://www.like4like.org>
-- AddMeFast: Get Likes and Followers    -    <https://addmefast.com/login>
 - Soc-Promotion: Free Likes    -    <https://soc-promotion.com/free-instagram-promotion>
-- Likezoid: Windows App for free Likes    -    <https://likezoid.com>
-- Insta Followers Pro    -    <https://app.instafollowerspro.com>
-- Temporary Email Address    -    <https://dropmail.me/en> | <https://temp-mail.io/en>
 
 <hr>
 
