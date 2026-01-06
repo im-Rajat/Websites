@@ -102,30 +102,13 @@
 ### Photo & Video Apps :
 - Post your images here and get URL    -    <https://postimages.org/>
 - Free Image URL Generator    -    <https://www.imghippo.com/>
-- Remove Watermarks from Images    -    <https://www.watermarkremover.io>
-- Photo editing tools    -    <https://imageamigo.com>
-- AI Images & Videos    -    <https://klingai.com/>
-- AI Image to Video    -    <https://vidu.studio/create/img2video>
 - Make passport size photos + other photo tools    -    <https://www.cutout.pro/passport-photo-maker>
-- D-ID: Generate Video from Script using AI    -    <https://www.d-id.com>
-- gfpgan/tencentarc: Convert Image From Low to High Quality    -    <http://replicate.com/tencentarc/gfpgan>
-- sczhou/codeformer: Convert Image From Low to High Quality    -    <https://replicate.com/sczhou/codeformer>
 - Online Photoshop    -    <https://www.photopea.com>
-- Increase image resolution    -    <https://letsenhance.io>
-- Remove any unwanted object, defect, people or text from image    -    <https://cleanup.pictures>
-- Remove background of portrait photo & video    -    <https://bgrem.deelvin.com>
 - Remove video background    -    https://www.unscreen.com>
 - Online video editor    -    <https://www.veed.io>
 - Remove photo background    -    <https://www.remove.bg>
-- Remove unwanted things in images    -    <https://magicstudio.com/magiceraser>
 - AI Image Enlarger    -    <https://imglarger.com>
-- Colourize any photo    -    <https://palette.fm>
-- Different tools for design, photo, video    -    <https://app.simplified.com>
-- Different tools for audio, video    -    <https://www.narakeet.com>
-- Runway: AI Tools + Video Editing    -    <https://runwayml.com>
-- Pictory: Text to Video    -    <https://pictory.ai>
-- Adobe Express: Animate from audio     -    <https://express.adobe.com/express-apps/animate-from-audio>
-- Submagic: Add captions in short videos    -    <https://www.submagic.co>
+- Adobe Express: Animate from audio     -    <https://new.express.adobe.com/home/tools/animate-from-audio>
 - Free photos & videos    -    <https://www.pexels.com/>
 - Free Medical Certificate    -    <https://medicalcertificategenerator.com/>
 
