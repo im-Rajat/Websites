@@ -46,23 +46,18 @@
 <hr>
 
 ### Education :
-- You can access all Medium articles for free    -    <https://freedium.cfd/>
+- You can access all Medium articles for free    -    <https://freedium-mirror.cfd/>
 - Online Editor (VSCode)    -    https://vscode.dev/
+- Useful Git Repositories    -    <https://github.com/im-Rajat?tab=stars>
 - Play coding games    -    <https://www.codingame.com/>
 - Create a new website with AI    -    <https://10web.io/>
 - Data Structure And Algorithms Visualizations    -    <https://www.cs.usfca.edu/~galles/visualization/Algorithms.html> & <https://visualgo.net/en>
-- Solution to every LinkedIn assessment    -    <https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes>
 - Programming Cheat Sheets    -    <https://overapi.com>
-- BlackBox: Extract Code from Any Video and Turn any Question into Code    -    <https://www.useblackbox.io>
 - Free Cheat Sheets, Revision Aids and Quick References    -    <https://cheatography.com>
-- Convert text to handwriting    -    <https://texttohandwriting.com>
-- Text to Handwriting    -    <https://saurabhdaware.github.io/text-to-handwriting>
 - Learn C++    -    <https://hackingcpp.com/index.html>
 - Academic Study material    -    <https://www.tutorialsduniya.com>
 - Get different projects    -    <https://nevonprojects.com>
-- C++ Cheat Sheet    -    <https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md>
 - Get overview of Programming Languages    -    <https://learnxinyminutes.com>
-- For solving math problems with steps    -    <https://mathsolver.microsoft.com/en>
 - Learn Basic of Programming Languages    -    <https://www.programiz.com>
 - Problem Solver    -    <https://www.wolframalpha.com>
 - Projects + Source code    -    <https://www.kashipara.com>
@@ -78,7 +73,6 @@
 - CodeConverter: Convert code between languages    -    <https://www.codeconvert.ai/free-converter>
 - FlowCV: Online Resume/CV Builder    -    <https://flowcv.com>
 - CheatSheets: Quick Reference Cheat Sheets    -    <https://cheatsheets.zip/>
-- Free Programming Books (Github)    -    <https://github.com/EbookFoundation/free-programming-books>
 - Git Profile Generator    -    <https://profile-readme-generator.com/>
 
 <hr>
