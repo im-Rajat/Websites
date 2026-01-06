@@ -109,29 +109,19 @@
 <hr>
 
 ### AI/Interactive :
-- Clone your Voice, Generate AI voices     -    <https://play.ht/>
-- ChatGPT: AI Chat Bot     -    <https://chat.openai.com/chat>
-- Forefront Chat: AI Chat Bot     -    <https://chat.forefront.ai>
 - Lachief: All AI Tools     -    <https://lachief.io>
-- Perplexity AI: Ask Anything     -    <https://www.perplexity.ai>
 - Create your Perfect Sound Environment to Work and Relax     -    <https://www.noisli.com>
 - BuildAI.Space: Trip Planner     -    <https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961>
-- Convert Text to Image using AI     -    <https://www.craiyon.com>
-- AI to Solution     -    <https://beta.openai.com/playground>
 - Text to Voice to any Character/Cartoon     -    <https://fakeyou.com>
 - Grabify: To Track Someone using Link     -    <https://grabify.link>
 - Reading Terms & Condition Easily and Short     -    <https://tosdr.org>
-- Text to Audio     -    <https://freetts.com>
-- Convert Text to Celebrity Voice     -    <https://uberduck.ai>
 - 50 Fun AI Pages     -    <https://boredhumans.com>
 - Animate Drawings     -    <https://sketch.metademolab.com>
-- Fake Windows Update     -    <https://fakeupdate.net>
 - Separate Voice from Music     -    <https://vocalremover.org>
 - Adobe AI Voice enhancer     -    <https://podcast.adobe.com/enhance>
 - Resemble AI: Text to your Voice     -    <https://www.resemble.ai>
 - Insidr.ai: AI Tools Directory     -    <https://www.insidr.ai/ai-tools>
 - ChatDOC: Chat with Documents     -    <https://chatdoc.com>
-- LogicBalls: FREE AI Apps     -    <https://logicballs.com>
 - Kodezi: AI for Programmers     -    <https://kodezi.com>
 - Uizard: Edit Screenshot using AI     -    <https://uizard.io>
 - Futurepedia: AI Tools    -    <https://www.futurepedia.io>
