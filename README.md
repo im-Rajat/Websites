@@ -146,6 +146,7 @@
 - Highlighter - PDF & Web     -    <https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei>
 - Captcha Solver for Humans     -    <https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl>
 - Apply coupons automatically     -    <https://chrome.google.com/webstore/detail/growbot-automator-for-ins/abhcgokmndbiegmmbjffdlpihgdmeejf>
+- Notebook: Quick and Simple Notes    -    <https://chromewebstore.google.com/detail/notebook-quick-and-simple/nggbjicdihmpiacmeelgajdjjofmfchl>
 - Notepad    -    <https://chrome.google.com/webstore/detail/notepad/hchcbafooaphheofgpijpfgklcmmmpff>
 - Quick Notepad    -    <https://chrome.google.com/webstore/detail/notepad/ffbhefmlcoihbjcmibbfkocmnaiacinp>
 
