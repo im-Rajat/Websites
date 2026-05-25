@@ -18,6 +18,8 @@
 - FaceCheck: Find People Online by Photo     -    <https://facecheck.id>
 - Citizen-centric initiative of Department of Telecommunications    -    <https://sancharsaathi.gov.in/>
 - Instruction to delete your account on a site    -    <https://www.accountkiller.com>
+- Deep Identity Search usign email    -    <https://behindtheemail.com/>
+- Check if your email address is in a data breach    -    <https://haveibeenpwned.com/>
 
 <hr>
 
