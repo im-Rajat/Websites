@@ -119,6 +119,7 @@
 - Grabify: To Track Someone using Link     -    <https://grabify.link>
 - Reading Terms & Condition Easily and Short     -    <https://tosdr.org>
 - 50 Fun AI Pages     -    <https://boredhumans.com>
+- crzy.site (Growing collection of absolutely pointless websites)    -    <https://crzy.site>
 - Animate Drawings     -    <https://sketch.metademolab.com>
 - Separate Voice from Music     -    <https://vocalremover.org>
 - Adobe AI Voice enhancer     -    <https://podcast.adobe.com/enhance>
