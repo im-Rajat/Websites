@@ -52,6 +52,7 @@
 - You can access all Medium articles for free    -    <https://freedium-mirror.cfd/>
 - Online Editor (VSCode)    -    https://vscode.dev/
 - Useful Git Repositories    -    <https://github.com/im-Rajat?tab=stars>
+- Transform your handwriting or calligraphy into a font!    -    <https://www.calligraphr.com/en/>
 - Play coding games    -    <https://www.codingame.com/>
 - Create a new website with AI    -    <https://10web.io/>
 - Data Structure And Algorithms Visualizations    -    <https://www.cs.usfca.edu/~galles/visualization/Algorithms.html> & <https://visualgo.net/en>
